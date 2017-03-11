@@ -8,5 +8,29 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.1.0"
-  }
+  },
+  "name": "skeleton",
+  "description": "The standard setup we use to start one of our projects.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halltech/skeleton.git"
+  },
+  "keywords": [
+    "build-system",
+    "sass",
+    "js",
+    "clean-css"
+  ],
+  "author": "Daniel Oltmanns & Matthew Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halltech/skeleton/issues"
+  },
+  "homepage": "https://github.com/halltech/skeleton#readme"
 }
